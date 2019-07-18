@@ -1,1 +1,1 @@
-meteor-demo
+First Time Practice on Meteor Framework
